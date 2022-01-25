@@ -1,0 +1,26 @@
+{
+  "name": "tailwind-css-node",
+  "version": "1.0.0",
+  "description": "a fun project on tailwind-css on Node app ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrarramzan-dev/tailwind-css-node.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "nodejs"
+  ],
+  "author": "Ibrar Ramzan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibrarramzan-dev/tailwind-css-node/issues"
+  },
+  "homepage": "https://github.com/ibrarramzan-dev/tailwind-css-node#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.16"
+  }
+}
